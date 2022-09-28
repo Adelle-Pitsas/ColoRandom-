@@ -7,6 +7,10 @@ This website allows you to generate and save a random color palette and adjust t
 ### Description
 Use our site to generate a five color palette swab! The user can generate a new palette set, lock specific colors and then randomize unlocked colors. This new palette can be saved to be referenced later and can also be deleted.
 
+### Preview of App:
+![Screen Shot 2022-09-28 at 3 54 50 PM](https://user-images.githubusercontent.com/108096652/192876450-a85cf7ea-52f9-4642-9c0c-8bc7ecaa9538.png)
+
+
 ### Technologies
   - Javascript
   - HTML
